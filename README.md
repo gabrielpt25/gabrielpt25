@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python</strong>
+  🦄 Linguagens: <li><strong>Python</strong></li>
   <li><strong>PHP</strong></li>
   <li><strong>JavaScrpit</strong></li>
   <li><strong>ShellScript</strong></li>
