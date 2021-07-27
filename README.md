@@ -7,16 +7,16 @@
 
 <p align="left">
   🦄 Linguagens: <strong>Python</strong>
-  <strong>PHP</strong>
-  <strong>JavaScrpit</strong>
-  <strong>ShellScript</strong>
+  <p><strong>PHP</strong></p>
+  <p><strong>JavaScrpit</strong></p>
+  <p><strong>ShellScript</strong></p>
  </p>
 
 <p align="left">
   💼 Ferramentas: <strong>Laravel (em aprendizado)</strong>
-  <strong>VueJs(em aprendizado)</strong>
-  <strong>React</strong>
-  <strong>PyQT5</strong>
+  <p><strong>VueJs(em aprendizado)</strong></p>
+  <p><strong>React</strong></p>
+  <p><strong>PyQT5</strong></p>
 </p>
 
 <p align="left">
