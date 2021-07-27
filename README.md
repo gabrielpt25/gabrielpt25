@@ -13,10 +13,11 @@
  </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Laravel (em aprendizado)</strong>
-  <p><strong>VueJs(em aprendizado)</strong></p>
-  <p><strong>React</strong></p>
-  <p><strong>PyQT5</strong></p>
+  💼 Ferramentas: 
+  <li><strong>Laravel (em aprendizado)</strong></li>
+  <li><strong>VueJs(em aprendizado)</strong></li>
+  <li><strong>React</strong></li>
+  <li><strong>PyQT5</strong></li>
 </p>
 
 <p align="left">
