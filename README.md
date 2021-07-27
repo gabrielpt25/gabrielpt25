@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Opa! Aqui é o Gabriel Teixeira, estudante, cursando 4º semestre, do curso <strong>Analise e Desenvolvimento de Sistemas</strong>.<br>
-  Atualmente atuando como Analista de Suporte, e fazendo a transição para área de desenvolvimento!.
+  Opa! Aqui é o Gabriel Teixeira, estudante, cursando 4º semestre do curso <strong>Analise e Desenvolvimento de Sistemas</strong>.<br>
+  Atualmente atuando como Analista de Suporte, e fazendo a transição para área de desenvolvimento!
 </p>
 
 <p align="left">
