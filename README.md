@@ -7,9 +7,9 @@
 
 <p align="left">
   🦄 Linguagens: <strong>Python</strong>
-  <p><strong>PHP</strong></p>
-  <p><strong>JavaScrpit</strong></p>
-  <p><strong>ShellScript</strong></p>
+  <li><strong>PHP</strong></li>
+  <li><strong>JavaScrpit</strong></li>
+  <li><strong>ShellScript</strong></li>
  </p>
 
 <p align="left">
