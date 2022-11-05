@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Opa! Aqui é o Gabriel Teixeira, estudante, cursando 4º semestre do curso <strong>Analise e Desenvolvimento de Sistemas</strong>.<br>
-  Atualmente atuando como Analista de Suporte, e fazendo a transição para área de desenvolvimento!
+  Opa! Aqui é o Gabriel Teixeira, formado em <strong>Analise e Desenvolvimento de Sistemas e pós graduando em Engenharia de Software</strong>.<br>
+  Atualmente atuando como Desenvolvedor Python!!
 </p>
 
 <p align="left">
@@ -18,6 +18,9 @@
   <li><strong>VueJs(em aprendizado)</strong></li>
   <li><strong>React</strong></li>
   <li><strong>PyQT5</strong></li>
+  <li><strong>Pydantic</strong></li>
+  <li><strong>Kafka</strong></li>
+  <li><strong>Ansible</strong></li>
 </p>
 
 <p align="left">
