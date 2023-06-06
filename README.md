@@ -14,8 +14,8 @@
 
 <p align="left">
   💼 Ferramentas: 
-  <li><strong>Laravel (em aprendizado)</strong></li>
-  <li><strong>VueJs(em aprendizado)</strong></li>
+  <li><strong>Laravel</strong></li>
+  <li><strong>VueJs</strong></li>
   <li><strong>React</strong></li>
   <li><strong>PyQT5</strong></li>
   <li><strong>Pydantic</strong></li>
